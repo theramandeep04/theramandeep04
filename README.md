@@ -44,8 +44,8 @@
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theramandeep04&layout=compact&show_icon=true&theme=algolia" alt="ramandeep-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=theramandeep04&layout=compact&show_icon=true&theme=algolia" alt="ramandeep-stats"/>
-</div>
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theramandeep04&theme=algolia" alt="theramandeep04" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theramandeep04&theme=algolia" alt="theramandeep04" /></div>
