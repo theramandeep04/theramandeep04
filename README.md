@@ -49,3 +49,5 @@
 
 
 <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theramandeep04&theme=algolia" alt="theramandeep04" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=theramandeep04&theme=react-dark"/>
