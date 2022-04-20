@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theramandeep04&label=Profile%20views&color=0e75b6&style=flat" alt="theramandeep04" /> </p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=theramandeep04&layout=compact&show_icon=true&theme=algolia" alt="ramandeep-stats"/>
-<p align="left"> <a href="https://github.com/theramandeep04/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theramandeep04" alt="theramandeep04" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=theramandeep04""><img src="https://github-profile-trophy.vercel.app/?username=theramandeep04" alt="theramandeep04" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theramandeep04" target="blank"><img src="https://img.shields.io/twitter/follow/theramandeep04?logo=twitter&style=for-the-badge" alt="theramandeep04" /></a> </p>
 
