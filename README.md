@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Ramandeep+Singh+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
- <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img><h3 align="center"><h1 align="center">ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ 🙏 𝓘'𝓶 𝓡𝓪𝓶𝓪𝓷𝓭𝓮𝓮𝓹 𝓢𝓲𝓷𝓰𝓱</h1>I'm Ramandeep Singh, Undergoing B.Tech CSE @ IIIT-Hyderabad | I'm not a great programmer. I'm just a good programmer with great habits.</h3>
+ <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" float="left"></img><h3 align="center"><h1 align="center">ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ 🙏 𝓘'𝓶 𝓡𝓪𝓶𝓪𝓷𝓭𝓮𝓮𝓹 𝓢𝓲𝓷𝓰𝓱</h1>I'm Ramandeep Singh, Undergoing B.Tech CSE @ IIIT-Hyderabad | I'm not a great programmer. I'm just a good programmer with great habits.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theramandeep04&label=Profile%20views&color=0e75b6&style=flat" alt="theramandeep04" /> </p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=theramandeep04&layout=compact&show_icon=true&theme=algolia" alt="ramandeep-stats"/>
